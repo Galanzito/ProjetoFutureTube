@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background: #333333;
+    
+}
+
+.menu_videos {
+    position: fixed;
+    right: 0;
+}
+
+.video__card___menu {
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+}
+
+
+
+.video{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+
+.nome__video {
+    color: #fdfdfd;
+    display: inline;
+    margin-left: 200px;    
+    
+}
+
+.curtir {
+    margin-left: 250px;
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+
