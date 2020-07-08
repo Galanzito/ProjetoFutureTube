@@ -31,3 +31,13 @@ Projeto desenvolvido no ínicio dos estudos de HTML/CSS, com um feed de vídeos 
 ### TECNOLOGIAS/FERRAMENTAS
 * Terminal
 * Git
+
+### Como rodar a aplicação :arrow_forward:
+No terminal, clone o projeto: 
+```
+git clone https://github.com/Galanzito/ProjetoFutureTube.git
+```
+Abra a pasta que foi criada
+```
+Abra o arquivo index.html
+```
